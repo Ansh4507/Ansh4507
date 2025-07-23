@@ -44,18 +44,10 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrperfect0603&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrperfect0603&layout=compact&theme=tokyonight" />
-</p>
 
----
-
-### 💡 Dev Quote:
-> “The cleaner and nicer the program, the faster it's going to run.  
-> And if it doesn't, it'll be easy to make it fast.”  
-> — *Joshua Bloch*
+### 💡 Quote:
+> “19/11 = 18/7”  
+> — *Ansh Mishra*
 
 ---
 
