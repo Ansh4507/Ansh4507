@@ -1,16 +1,16 @@
-<h1 align="center">Hey there 👋, I'm Vivek Shaurya</h1>
-<h3 align="center">🚀 Full-Stack Developer | DevOps | GenAI Explorer</h3>
+<h1 align="center">Hey there 👋, I'm Ansh Mishra</h1>
+<h3 align="center">🚀 Cloud Engineer | DevOps Enthusiast | ML/GenAI Explorer</h3>
 
 ---
 
 ### 🧑‍💻 About Me:
 
 - 🎓 I'm currently studying at **Jaypee Institute of Information Technology**
-- 👥 I'm looking to collaborate on **Full-Stack Development** and **DevOps Projects**
-- 📧 Contact: `vivekshaurya62[at]gmail.com`
-- 🤖 I'm currently working on **Machine Learning and GenAI**
+- 👥 I'm looking to collaborate on **GenAI/AI Agents**, **Cloud Projects** and **DevOps Projects**
+- 📧 Contact: `mishraasnh4507[at]gmail.com`
+- 🤖 I'm currently working on **GoLang and Devops Tools**
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/)
-- 💙 Love & ✌️ Peace
+- 🧋🏏
 
 ---
 
@@ -32,12 +32,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -45,10 +40,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Langchain.js-green?style=for-the-badge" />
 </p>
 
 ---
